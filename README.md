@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Anna
+- 👀 I’m interested in QA
+- 🌱 I’m currently learning new manual testing techniques
+- 📫 You can contact me by email: [anna.a.lagunova@gmail.com](mailto:anna.a.lagunova@gmail.com)
+- 💬 Or telegram: [@anna_lagunova](https://t.me/anna_lagunova)
